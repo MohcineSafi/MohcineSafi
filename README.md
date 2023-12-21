@@ -29,5 +29,3 @@ I'm an active contributor to open-source projects, including:
   
 
 Feel free to reach out to me for any collaboration or just to say hi! 😊
-
-[![](https://visitcount.itsvg.in/api?id=admin&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
