@@ -8,7 +8,7 @@ A passionate full-stack developer
 I'm a passionate software engineer. I love to explore new technologies and create meaningful applications.
 
 * 🌍  I'm based in Kenitra ,Morocco
-* 🖥️  See my portfolio at [MyPortfolio](http://portfolio-o2i2x0gs7-mohcinesafis-projects.vercel.app/)
+* 🖥️  See my portfolio at [MyPortfolio](https://github.com/MohcineSafi/React-Portfolio)
 * ✉️  You can contact me at [safi.mouhcine02@gmail.com](mailto:safi.mouhcine02@gmail.com)
 * 🧠  I'm learning Next.js / Laravel
 
