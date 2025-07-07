@@ -32,10 +32,5 @@ I'm a passionate software engineer. I love to explore new technologies and creat
 <a href="https://github.com/MohcineSafi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohcineSafi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ---
-![Snake animation](https://raw.githubusercontent.com/MohcineSafi/output/snake.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohcineSafi&label=Profile%20views&color=0e75b6&style=flat" alt="MohcineSafi" /> </p>
-
-<img src="https://raw.githubusercontent.com/MohcineSafi/output/snake.svg" alt="Snake animation" />
-
-###
