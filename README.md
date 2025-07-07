@@ -34,3 +34,7 @@ I'm a passionate software engineer. I love to explore new technologies and creat
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohcineSafi&label=Profile%20views&color=0e75b6&style=flat" alt="MohcineSafi" /> </p>
+
+<img src="https://raw.githubusercontent.com/MohcineSafi/MohcineSafi/output/snake.svg" alt="Snake animation" />
+
+###
